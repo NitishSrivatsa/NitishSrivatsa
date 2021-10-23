@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NitishSrivatsa
-- 👀 I’m interested in ML, Deep Learning and Networking and Network Security.
+- 👀 I’m interested in Networking and Network Security and Machine Learning, Data Science.
 - 🌱 I’m currently studying B.Tech in PES University
 
 <!---
